@@ -1,0 +1,41 @@
+<!--
+DR. ROBIN SROUR — MOBILE REFINEMENTS
+Paste this block near the end of the EXISTING FULL index.html,
+immediately before the final </body> tag.
+
+Do NOT replace the full index.html with this file.
+-->
+
+<style id="mobile-refinements-20260901-v2">
+@media (max-width: 768px) {
+
+  /* 1) More space between the Contact button and hamburger menu.
+     Keeps all existing button/menu sizes unchanged. */
+  nav > .nav-cta {
+    margin-right: 10px !important;
+  }
+
+  /* 2) Homepage hero portrait:
+     keep the exact same image/container size, but stop cropping
+     the LEFT edge of the source image. */
+  :is(#page-home, #page-home-en) .hero-photo img {
+    object-position: left top !important;
+  }
+
+  /* 3) Facet questionnaire promotional card:
+     current mobile card is 520px tall. The white top/bottom bands
+     keep their natural height; reducing the overall card to 425px
+     makes the central dark-grey area approximately 25% shorter. */
+  :is(#articles-thematiques-v2, #articles-thematiques-v2-en)
+    .pourquoi-v2-article:first-child .pourquoi-v2-quiz-wrap {
+    min-height: 425px !important;
+  }
+}
+
+/* Very narrow phones: retain the extra Contact/Menu separation. */
+@media (max-width: 420px) {
+  nav > .nav-cta {
+    margin-right: 9px !important;
+  }
+}
+</style>
