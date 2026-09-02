@@ -7281,6 +7281,52 @@ body.training-modal-open { overflow: hidden; }
 }
 </style>
 
+
+<style id="mobile-hero-shift-further-right-20260902-v10">
+@media (max-width: 768px) {
+  /* Move Dr. Srour further to the right on mobile without changing image size. */
+  :is(#page-home, #page-home-en) .hero-photo img {
+    right: -16px !important;
+  }
+}
+</style>
+
+
+<style id="mobile-hero-and-french-card-labels-20260902-v11">
+@media (max-width: 768px) {
+  /* Move Dr. Srour further to the right on mobile, keeping the same size and height. */
+  :is(#page-home, #page-home-en) .hero-photo img {
+    right: -34px !important;
+  }
+
+  /* French key-number cards:
+     force these two labels onto exactly two lines on mobile. */
+  #apropos-v2 .cv2-tall-card:nth-child(1) .cv2-tall-desc,
+  #apropos-v2 .cv2-tall-card:nth-child(3) .cv2-tall-desc {
+    max-width: 108px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    white-space: normal !important;
+  }
+}
+</style>
+
+
+<style id="medical-video-stronger-left-crop-20260902-v12">
+/* Stronger left-side crop for the f1j9XkPSe6E Medical Education thumbnail.
+   This removes the seated person in the far-left background while keeping
+   the surgeon and monitor composition intact. */
+:is(#videos-pedagogiques, #videos-pedagogiques-en)
+  .video-placeholder[data-video-id="f1j9XkPSe6E"] img {
+  left: -19% !important;
+  width: 119% !important;
+  right: auto !important;
+  object-fit: cover !important;
+  object-position: right center !important;
+}
+</style>
+
 </head>
 <body>
 <div class="page active" data-lang="fr" id="page-home">
