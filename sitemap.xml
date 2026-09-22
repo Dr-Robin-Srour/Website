@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://drrobinsrour.com/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/syndrome-facettaire/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/syndrome-facettaire/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/facet-syndrome/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/facet-syndrome/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/facet-syndrome/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/syndrome-facettaire/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/questionnaire-facettaire/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/questionnaire-facettaire/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/facet-questionnaire/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/facet-questionnaire/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/facet-questionnaire/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/questionnaire-facettaire/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/kystes-de-tarlov/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/kystes-de-tarlov/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/tarlov-cysts/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/tarlov-cysts/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/tarlov-cysts/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/kystes-de-tarlov/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/medical-education/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/medical-education/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/medical-education/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/medical-education/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/medical-education/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/medical-education/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/articles-scientifiques/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/articles-scientifiques/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/scientific-articles/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/scientific-articles/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/scientific-articles/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/articles-scientifiques/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://drrobinsrour.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drrobinsrour.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drrobinsrour.com/contact/"/>
+  </url>
+</urlset>

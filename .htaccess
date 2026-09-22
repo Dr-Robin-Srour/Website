@@ -1,0 +1,9 @@
+# Only used if the site is hosted on an Apache server (e.g. OVH shared hosting).
+# GitHub Pages ignores this file.
+DirectoryIndex index.html
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [L,R=301]
+ErrorDocument 404 /index.html
