@@ -3839,15 +3839,6 @@ nav {
   display: inline-block;
 }
 
-:is(#apropos-v2,#apropos-v2-en).is-visible .cv2-tall-card:last-child .cv2-tall-num--sm {
-  animation: cv2-breathe 2s ease-in-out 3;
-}
-
-@keyframes cv2-breathe {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.72; transform: scale(1.05); }
-}
-
 .cv2-tall-card:last-child {
   background: #565656;
 }
